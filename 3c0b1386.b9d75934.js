@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{80:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Hello","permalink":"/2shapes.io/blog/hello-world2"},{"title":"Welcome","permalink":"/2shapes.io/blog/welcome"},{"title":"Hello","permalink":"/2shapes.io/blog/hello-world"},{"title":"Hola","permalink":"/2shapes.io/blog/hola"}]}')}}]);
