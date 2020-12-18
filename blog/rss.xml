@@ -4,9 +4,16 @@
         <title>My Site Blog</title>
         <link>https://rafaeldelm.github.com/blog</link>
         <description>My Site Blog</description>
-        <lastBuildDate>Thu, 30 May 2019 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jan 2020 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hello]]></title>
+            <link>https://rafaeldelm.github.com/2shapes.io/blog/hello-world2</link>
+            <guid>hello-world2</guid>
+            <pubDate>Wed, 29 Jan 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2 alpha.]]></description>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://rafaeldelm.github.com/2shapes.io/blog/welcome</link>
