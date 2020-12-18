@@ -2,7 +2,7 @@ module.exports = {
   title: 'My Site',
   tagline: 'The tagline of my site',
   url: 'https://rafaeldelm.github.com',
-  baseUrl: '/',
+  baseUrl: '/my-website',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
